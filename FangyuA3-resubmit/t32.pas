@@ -1,0 +1,12 @@
+PROGRAM main;
+
+PROCEDURE proc1;
+BEGIN
+END;
+
+PROCEDURE proc2;
+BEGIN
+END;
+
+BEGIN
+END.
